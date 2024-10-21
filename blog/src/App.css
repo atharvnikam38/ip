@@ -1,0 +1,11 @@
+.complete{
+  display: flex;
+}
+
+.articles{
+  width: 50%;
+}
+
+.contact{
+  margin-top: 100px;
+}
